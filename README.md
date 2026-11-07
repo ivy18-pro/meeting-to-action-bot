@@ -37,3 +37,5 @@ Unlike traditional meeting summarization tools, Meeting-to-Action AI focuses on 
 ### Vision
 
 Our goal is to make meetings more productive by ensuring that important discussions do not end as forgotten notes. Meeting-to-Action AI transforms conversations into clear responsibilities, measurable progress, and meaningful outcomes.
+
+Prototype link :https://meeting-to-action-ai.ai.studio
