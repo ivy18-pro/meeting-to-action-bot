@@ -1,0 +1,6 @@
+{
+  "name": "Meeting-to-Action AI",
+  "description": "Turn meeting transcripts into structured summaries, confirmed decisions, and trackable action items with AI-driven validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
